@@ -162,4 +162,9 @@ themeButton.addEventListener('click', () => {
 
 })
 
+
+
+// ====================== SCROLL REVEAL ANIMATION 2:06:30 ==================
+
+
  
